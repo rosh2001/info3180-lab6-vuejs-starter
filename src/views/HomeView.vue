@@ -5,6 +5,7 @@ export default {
             message: "Hello World! Welcome to VueJS"
         };
     },
+    
 }
 </script>
 
